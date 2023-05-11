@@ -1,0 +1,27 @@
+{
+  "name": "phydim",
+  "version": "1.0.0",
+  "description": "Physics Dimensions",
+  "main": "phydim.js",
+  "exports": {
+    "import": "./phydim.js",
+    "require": "./phydim.cjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/phydim.js.git"
+  },
+  "keywords": [
+    "physics",
+    "physics-dimensions",
+    "dimensions",
+    "phydim"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/phydim.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/phydim.js#readme"
+}
